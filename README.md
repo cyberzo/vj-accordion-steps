@@ -1,4 +1,7 @@
 Welcome to the vj-accordion-steps wiki!
+
+[View Demo ( http://cyberzo.github.io/vj-accordion-steps/ )](http://cyberzo.github.io/vj-accordion-steps/)
+
 ## What is Vj Accordion Steps?
 This is a jQuery Plugin of Accordion as Steps with Individual Steps Validation and Optional Reset Steps in final step
 
